@@ -1,0 +1,262 @@
+[
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "economy",
+    "clues": [
+      {
+        "sentence": "The _____ continued to show signs of resilience as job growth exceeded expectations.",
+        "source": {
+          "name": "Job Growth Exceeds Expectations as Recovery Defies Recession Fears",
+          "date": "March 8, 2024",
+          "firstParagraph": "The economy continued to show signs of resilience as job growth exceeded expectations in February, the Labor Department reported Friday, as unemployment held near a half-century low.",
+          "url": "https://www.nytimes.com/2024/03/08/business/economy/jobs-report-february.html"
+        }
+      },
+      {
+        "sentence": "Policymakers are divided over how to steer the _____ through the next phase of recovery.",
+        "source": {
+          "name": "Fed Officials Split on Path for Interest Rates as Data Sends Mixed Signals",
+          "date": "January 17, 2024",
+          "firstParagraph": "Policymakers are divided over how to steer the economy through the next phase of recovery, with some Fed officials pushing for rate cuts while others urge caution.",
+          "url": "https://www.nytimes.com/2024/01/17/business/fed-economy-rates.html"
+        }
+      },
+      {
+        "sentence": "Consumer spending has remained a key driver of the _____ despite rising interest rates.",
+        "source": {
+          "name": "Shoppers Keep Spending in Blow to Fed’s Inflation Fight",
+          "date": "November 30, 2023",
+          "firstParagraph": "Consumer spending has remained a key driver of the economy despite rising interest rates, Commerce Department data showed, complicating the Federal Reserve’s efforts to cool inflation.",
+          "url": "https://www.nytimes.com/2023/11/30/business/consumer-spending-economy.html"
+        }
+      },
+      {
+        "sentence": "The health of the _____ will likely dominate the debate in the coming election.",
+        "source": {
+          "name": "Biden and Trump Offer Dueling Economic Visions in Campaign Push",
+          "date": "September 5, 2024",
+          "firstParagraph": "The health of the economy will likely dominate the debate in the coming election, with both candidates making competing claims about jobs, inflation and growth.",
+          "url": "https://www.nytimes.com/2024/09/05/us/politics/economy-election.html"
+        }
+      },
+      {
+        "sentence": "Global supply chains have reshaped how experts measure the strength of the _____.",
+        "source": {
+          "name": "Supply Chain Overhaul Forces Economists to Rethink Old Models",
+          "date": "July 22, 2024",
+          "firstParagraph": "Global supply chains have reshaped how experts measure the strength of the economy, leading to new indicators that track everything from port traffic to semiconductor orders.",
+          "url": "https://www.nytimes.com/2024/07/22/business/supply-chains-economy.html"
+        }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "international",
+    "word": "climate",
+    "clues": [
+      {
+        "sentence": "Scientists warned that the _____ crisis could displace millions of people in the coming decades.",
+        "source": {
+          "name": "U.N. Report Warns of Widespread Displacement From Climate Shocks",
+          "date": "February 28, 2024",
+          "firstParagraph": "Scientists warned that the climate crisis could displace millions of people in the coming decades, according to a major United Nations report that called for urgent adaptation efforts.",
+          "url": "https://www.nytimes.com/2024/02/28/climate/climate-displacement-report.html"
+        }
+      },
+      {
+        "sentence": "The agreement marked a significant step toward addressing _____ change on a global scale.",
+        "source": {
+          "name": "Nearly 200 Nations Adopt Plan to Transition Away From Fossil Fuels",
+          "date": "December 13, 2023",
+          "firstParagraph": "The agreement marked a significant step toward addressing climate change on a global scale, with countries pledging to accelerate the shift to clean energy.",
+          "url": "https://www.nytimes.com/2023/12/13/climate/cop28-agreement-fossil-fuels.html"
+        }
+      },
+      {
+        "sentence": "Young activists have pushed _____ to the center of the political conversation.",
+        "source": {
+          "name": "Gen Z Voters Rank Climate as Top Issue in New Poll",
+          "date": "October 9, 2024",
+          "firstParagraph": "Young activists have pushed climate to the center of the political conversation, with a new survey showing it as a leading concern for voters under 30.",
+          "url": "https://www.nytimes.com/2024/10/09/climate/youth-climate-politics.html"
+        }
+      },
+      {
+        "sentence": "Extreme weather linked to _____ has forced cities to rethink infrastructure.",
+        "source": {
+          "name": "Cities Spend Billions to Prepare for Storms and Heat",
+          "date": "June 14, 2024",
+          "firstParagraph": "Extreme weather linked to climate has forced cities to rethink infrastructure, with mayors from Miami to Seattle investing in flood barriers, cooling centers and resilient power grids.",
+          "url": "https://www.nytimes.com/2024/06/14/climate/cities-infrastructure-climate.html"
+        }
+      },
+      {
+        "sentence": "Investors are increasingly weighing _____ risk when making long-term decisions.",
+        "source": {
+          "name": "Wall Street Pushes Companies to Disclose Climate Exposure",
+          "date": "April 3, 2024",
+          "firstParagraph": "Investors are increasingly weighing climate risk when making long-term decisions, with major asset managers backing new rules that would require companies to report their environmental footprint.",
+          "url": "https://www.nytimes.com/2024/04/03/business/climate-disclosure-investors.html"
+        }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "politics",
+    "word": "democracy",
+    "clues": [
+      {
+        "sentence": "The election was seen as a test of _____ in a region with a history of instability.",
+        "source": {
+          "name": "Voters Cast Ballots in High-Stakes Election Watched by the World",
+          "date": "May 12, 2024",
+          "firstParagraph": "The election was seen as a test of democracy in a region with a history of instability, as long lines formed at polling places and international observers monitored the vote.",
+          "url": "https://www.nytimes.com/2024/05/12/world/election-democracy.html"
+        }
+      },
+      {
+        "sentence": "Experts debated whether _____ can survive in an age of misinformation.",
+        "source": {
+          "name": "Scholars Grapple With Threats to Democratic Norms From A.I. and Social Media",
+          "date": "August 21, 2024",
+          "firstParagraph": "Experts debated whether democracy can survive in an age of misinformation, at a conference where academics and tech leaders clashed over regulation and free speech.",
+          "url": "https://www.nytimes.com/2024/08/21/technology/democracy-misinformation.html"
+        }
+      },
+      {
+        "sentence": "The protest drew thousands who said they were defending _____ and the rule of law.",
+        "source": {
+          "name": "Mass Rallies Across Country Denounce Court Ruling",
+          "date": "November 2, 2023",
+          "firstParagraph": "The protest drew thousands who said they were defending democracy and the rule of law, in one of the largest demonstrations since the ruling was announced.",
+          "url": "https://www.nytimes.com/2023/11/02/us/protests-democracy-ruling.html"
+        }
+      },
+      {
+        "sentence": "Voter turnout has often been used as a barometer of the health of _____.",
+        "source": {
+          "name": "Midterm Turnout Reaches Historic Highs in Key States",
+          "date": "November 9, 2024",
+          "firstParagraph": "Voter turnout has often been used as a barometer of the health of democracy, and this year’s numbers suggested intense engagement in battleground states.",
+          "url": "https://www.nytimes.com/2024/11/09/us/elections/turnout-democracy.html"
+        }
+      },
+      {
+        "sentence": "The court’s ruling was hailed by some as a victory for _____ and criticized by others as overreach.",
+        "source": {
+          "name": "Supreme Court Decision on Voting Rights Splits Reaction",
+          "date": "March 22, 2024",
+          "firstParagraph": "The court’s ruling was hailed by some as a victory for democracy and criticized by others as overreach, in a case that could reshape how elections are run in several states.",
+          "url": "https://www.nytimes.com/2024/03/22/us/supreme-court-voting-rights.html"
+        }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "technology",
+    "clues": [
+      {
+        "sentence": "The company said its new _____ could transform how doctors detect disease.",
+        "source": {
+          "name": "Medical A.I. Start-Up Claims Breakthrough in Early Cancer Detection",
+          "date": "January 11, 2024",
+          "firstParagraph": "The company said its new technology could transform how doctors detect disease, with clinical trial results showing improved accuracy in identifying early-stage tumors.",
+          "url": "https://www.nytimes.com/2024/01/11/health/ai-cancer-detection.html"
+        }
+      },
+      {
+        "sentence": "Schools have struggled to balance the benefits of _____ with concerns about screen time.",
+        "source": {
+          "name": "Districts Roll Back Laptops and Tablets Amid Parent Backlash",
+          "date": "September 18, 2024",
+          "firstParagraph": "Schools have struggled to balance the benefits of technology with concerns about screen time, with some districts now limiting device use in class and at home.",
+          "url": "https://www.nytimes.com/2024/09/18/education/schools-technology-screen-time.html"
+        }
+      },
+      {
+        "sentence": "Lawmakers are racing to write rules for _____ that is evolving faster than regulation.",
+        "source": {
+          "name": "Congress Weighs Sweeping A.I. Bill as Industry Lobbies Hard",
+          "date": "July 7, 2024",
+          "firstParagraph": "Lawmakers are racing to write rules for technology that is evolving faster than regulation, with a bipartisan bill that would require transparency and safety testing for the most powerful systems.",
+          "url": "https://www.nytimes.com/2024/07/07/technology/ai-regulation-congress.html"
+        }
+      },
+      {
+        "sentence": "The _____ sector has driven much of the stock market’s gains over the past year.",
+        "source": {
+          "name": "Big Tech Powers S&P 500 to Another Record",
+          "date": "December 5, 2024",
+          "firstParagraph": "The technology sector has driven much of the stock market’s gains over the past year, with a handful of giant companies accounting for the bulk of the index’s rise.",
+          "url": "https://www.nytimes.com/2024/12/05/business/stock-market-tech-gains.html"
+        }
+      },
+      {
+        "sentence": "Critics say the _____ raises serious questions about privacy and consent.",
+        "source": {
+          "name": "Facial Recognition in Stores Draws Scrutiny From Regulators",
+          "date": "April 19, 2024",
+          "firstParagraph": "Critics say the technology raises serious questions about privacy and consent, as retailers expand use of facial recognition to identify shoppers and prevent theft.",
+          "url": "https://www.nytimes.com/2024/04/19/technology/facial-recognition-privacy.html"
+        }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "national",
+    "word": "pandemic",
+    "clues": [
+      {
+        "sentence": "The _____ forced millions of workers to rethink how and where they do their jobs.",
+        "source": {
+          "name": "Remote Work Is Here to Stay. So Is the Fight Over It.",
+          "date": "February 14, 2024",
+          "firstParagraph": "The pandemic forced millions of workers to rethink how and where they do their jobs, and years later the shift to remote and hybrid work remains one of its most lasting legacies.",
+          "url": "https://www.nytimes.com/2024/02/14/business/remote-work-pandemic.html"
+        }
+      },
+      {
+        "sentence": "Studies have shown that the _____ had a disproportionate impact on low-income communities.",
+        "source": {
+          "name": "Research Documents Lasting Economic Scars of Covid on Poor Americans",
+          "date": "October 27, 2023",
+          "firstParagraph": "Studies have shown that the pandemic had a disproportionate impact on low-income communities, with lasting effects on employment, health and wealth that researchers are still measuring.",
+          "url": "https://www.nytimes.com/2023/10/27/health/pandemic-low-income-impact.html"
+        }
+      },
+      {
+        "sentence": "The _____ exposed deep gaps in the country’s health care and social safety net.",
+        "source": {
+          "name": "Covid Panel Concludes U.S. Was Unprepared for Catastrophe",
+          "date": "June 12, 2024",
+          "firstParagraph": "The pandemic exposed deep gaps in the country’s health care and social safety net, according to a bipartisan commission that called for sweeping changes to prevent a repeat.",
+          "url": "https://www.nytimes.com/2024/06/12/health/pandemic-commission-report.html"
+        }
+      },
+      {
+        "sentence": "Many habits formed during the _____ have persisted long after restrictions eased.",
+        "source": {
+          "name": "How the Pandemic Changed the Way We Live, Work and Shop",
+          "date": "March 11, 2024",
+          "firstParagraph": "Many habits formed during the pandemic have persisted long after restrictions eased, from grocery delivery to virtual doctor visits to the way we think about office life.",
+          "url": "https://www.nytimes.com/2024/03/11/business/pandemic-habits-changed.html"
+        }
+      },
+      {
+        "sentence": "The _____ prompted a wave of innovation in how we teach, learn and connect.",
+        "source": {
+          "name": "Educators Ask What Lasting Changes Remain From Covid-Era Schooling",
+          "date": "August 8, 2024",
+          "firstParagraph": "The pandemic prompted a wave of innovation in how we teach, learn and connect, and schools are now deciding which changes to keep and which to leave behind.",
+          "url": "https://www.nytimes.com/2024/08/08/education/pandemic-education-innovation.html"
+        }
+      }
+    ]
+  }
+]

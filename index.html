@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lead Word — Guess the missing word from headlines &amp; leads</title>
+  <meta name="description" content="A quick reading game for Times colleagues: one word is missing from a headline or lead. Guess it from context. Easy, medium and hard. Play in under 10 minutes.">
+  <meta property="og:title" content="Lead Word">
+  <meta property="og:description" content="Guess the missing word from headlines and lead sentences. Pick a section, choose difficulty, and play. For Times colleagues.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Lead Word">
+  <meta name="twitter:description" content="Guess the missing word from headlines and leads. For Times colleagues.">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Lead Word</h1>
+    <p class="tagline">Guess the missing word from headlines and lead sentences.</p>
+    <details class="how-to-play">
+      <summary>How to play</summary>
+      <p>Pick a difficulty and optional section (Business, Politics, etc.). You’ll see a headline or lead with one word blanked out. Type the word and guess. Wrong? You get another headline or lead with the <strong>same</strong> word missing—up to 5 (or 3 on Hard). After each guess you’ll see the story it came from. Minor typos count as correct.</p>
+    </details>
+  </header>
+
+  <main class="game">
+    <section id="difficulty-picker" class="difficulty-picker">
+      <h2 class="difficulty-title">Choose difficulty</h2>
+      <p class="difficulty-desc">Same word is missing in every sentence. You get up to 5 sentences to guess it.</p>
+      <div class="difficulty-buttons">
+        <button type="button" id="diff-easy" class="btn btn-diff" data-difficulty="easy">Easy</button>
+        <button type="button" id="diff-medium" class="btn btn-diff" data-difficulty="medium">Medium</button>
+        <button type="button" id="diff-hard" class="btn btn-diff" data-difficulty="hard">Hard</button>
+      </div>
+      <p class="section-title">Focus on a section?</p>
+      <div class="section-buttons" role="group" aria-label="Section of The Times">
+        <button type="button" class="btn btn-section active" data-section="any">Any</button>
+        <button type="button" class="btn btn-section" data-section="business">Business</button>
+        <button type="button" class="btn btn-section" data-section="national">National</button>
+        <button type="button" class="btn btn-section" data-section="international">International</button>
+        <button type="button" class="btn btn-section" data-section="arts">Arts</button>
+        <button type="button" class="btn btn-section" data-section="lifestyle">Lifestyle</button>
+        <button type="button" class="btn btn-section" data-section="food">Food</button>
+        <button type="button" class="btn btn-section" data-section="politics">Politics</button>
+        <button type="button" class="btn btn-section" data-section="washington">Washington</button>
+      </div>
+      <ul class="difficulty-hints" aria-hidden="true">
+        <li><strong>Easy:</strong> Common words, clear context</li>
+        <li><strong>Medium:</strong> Familiar topics, varied vocabulary</li>
+        <li><strong>Hard:</strong> Less common words, only 3 clues (no second chances)</li>
+      </ul>
+    </section>
+
+    <div id="game-play" class="game-play hidden">
+    <p id="sentence-count" class="sentence-count" aria-live="polite">Lead 1 of 5</p>
+    <p id="sentence" class="sentence" aria-live="polite"></p>
+
+    <div class="guess-row">
+      <label for="guess" class="visually-hidden">Your guess (the missing word)</label>
+      <input
+        type="text"
+        id="guess"
+        class="guess-input"
+        placeholder="Type the missing word..."
+        autocomplete="off"
+        autofocus
+      />
+      <button type="button" id="submit" class="btn btn-primary">Guess</button>
+    </div>
+
+    <p id="message" class="message" role="status" aria-live="polite"></p>
+
+    <section id="story-source" class="story-source hidden" aria-live="polite">
+      <h2 class="story-source-title">That sentence was from</h2>
+      <p class="story-name" id="story-name"></p>
+      <p class="story-date" id="story-date"></p>
+      <p class="story-paragraph" id="story-paragraph"></p>
+      <a id="story-link" class="story-link" href="#" target="_blank" rel="noopener noreferrer">Read the full story →</a>
+    </section>
+
+    <section id="stats-chart" class="stats-chart hidden" aria-live="polite">
+      <h2 class="stats-title">Your stats</h2>
+      <p class="stats-subtitle">Guesses to win (this session + saved)</p>
+      <div id="stats-bars" class="stats-bars"></div>
+      <p id="stats-summary" class="stats-summary"></p>
+      <button type="button" id="reset-stats" class="btn btn-reset">Reset stats</button>
+    </section>
+
+    <button type="button" id="new-game" class="btn btn-secondary hidden">New game</button>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>For Times colleagues. Same word is missing in every clue—guess it from context. Stats are saved in your browser.</p>
+  </footer>
+
+  <script src="scripts/game.js"></script>
+</body>
+</html>

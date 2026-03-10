@@ -1,0 +1,461 @@
+[
+  {
+    "difficulty": "easy",
+    "section": "politics",
+    "word": "government",
+    "clues": [
+      {
+        "sentence": "The _____ announced new funding for roads and bridges across the state.",
+        "source": { "name": "State Unveils Infrastructure Spending Plan", "date": "April 2, 2024", "firstParagraph": "The government announced new funding for roads and bridges across the state, in a plan that officials said would create thousands of jobs.", "url": "https://www.nytimes.com/2024/04/02/us/state-infrastructure.html" }
+      },
+      {
+        "sentence": "Critics said the _____ had failed to act quickly enough on the crisis.",
+        "source": { "name": "Officials Face Backlash Over Response to Emergency", "date": "July 19, 2024", "firstParagraph": "Critics said the government had failed to act quickly enough on the crisis, as lawmakers demanded hearings and accountability.", "url": "https://www.nytimes.com/2024/07/19/us/government-response-crisis.html" }
+      },
+      {
+        "sentence": "The _____ will release its monthly jobs report on Friday.",
+        "source": { "name": "Labor Department to Report February Employment Data", "date": "March 6, 2024", "firstParagraph": "The government will release its monthly jobs report on Friday, with economists expecting another strong reading.", "url": "https://www.nytimes.com/2024/03/06/business/jobs-report.html" }
+      },
+      {
+        "sentence": "Opposition leaders called for the _____ to resign and call new elections.",
+        "source": { "name": "Political Crisis Deepens as Opposition Demands New Vote", "date": "November 12, 2024", "firstParagraph": "Opposition leaders called for the government to resign and call new elections, after weeks of street protests.", "url": "https://www.nytimes.com/2024/11/12/world/government-elections.html" }
+      },
+      {
+        "sentence": "The _____ said it would investigate the claims and report back within 30 days.",
+        "source": { "name": "Agency Pledges Inquiry Into Allegations", "date": "September 3, 2024", "firstParagraph": "The government said it would investigate the claims and report back within 30 days, in a statement released Tuesday.", "url": "https://www.nytimes.com/2024/09/03/us/government-investigation.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "washington",
+    "word": "president",
+    "clues": [
+      {
+        "sentence": "The _____ will address the nation from the Oval Office on Tuesday night.",
+        "source": { "name": "White House Announces Prime-Time Speech", "date": "January 8, 2024", "firstParagraph": "The president will address the nation from the Oval Office on Tuesday night, aides said, to outline his priorities for the year.", "url": "https://www.nytimes.com/2024/01/08/us/president-speech.html" }
+      },
+      {
+        "sentence": "The _____ signed the bill into law during a ceremony at the Capitol.",
+        "source": { "name": "Landmark Legislation Becomes Law After Ceremony", "date": "May 22, 2024", "firstParagraph": "The president signed the bill into law during a ceremony at the Capitol, surrounded by lawmakers from both parties.", "url": "https://www.nytimes.com/2024/05/22/us/president-bill-signing.html" }
+      },
+      {
+        "sentence": "The _____ met with world leaders to discuss trade and security.",
+        "source": { "name": "Summit Concludes With Pledges on Economy and Defense", "date": "June 14, 2024", "firstParagraph": "The president met with world leaders to discuss trade and security, in talks that ran late into the evening.", "url": "https://www.nytimes.com/2024/06/14/world/summit-trade-security.html" }
+      },
+      {
+        "sentence": "The former _____ has not yet said whether he will run again.",
+        "source": { "name": "Ex-Leader Keeps Options Open for Next Election", "date": "October 1, 2024", "firstParagraph": "The former president has not yet said whether he will run again, though aides have been laying groundwork for a campaign.", "url": "https://www.nytimes.com/2024/10/01/us/former-president-campaign.html" }
+      },
+      {
+        "sentence": "The _____ appointed a new adviser to lead the economic team.",
+        "source": { "name": "White House Names New Top Economic Adviser", "date": "February 28, 2024", "firstParagraph": "The president appointed a new adviser to lead the economic team, filling a post that had been vacant for months.", "url": "https://www.nytimes.com/2024/02/28/us/president-economic-adviser.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "national",
+    "word": "school",
+    "clues": [
+      {
+        "sentence": "The _____ will close for two days while repairs are made to the heating system.",
+        "source": { "name": "District Announces Closure for Building Repairs", "date": "December 4, 2024", "firstParagraph": "The school will close for two days while repairs are made to the heating system, officials said in a letter to families.", "url": "https://www.nytimes.com/2024/12/04/education/school-closure-repairs.html" }
+      },
+      {
+        "sentence": "Parents demanded that the _____ take stronger action against bullying.",
+        "source": { "name": "Families Push for Stricter Anti-Bullying Policy", "date": "March 15, 2024", "firstParagraph": "Parents demanded that the school take stronger action against bullying, at a tense meeting of the board.", "url": "https://www.nytimes.com/2024/03/15/education/bullying-policy.html" }
+      },
+      {
+        "sentence": "The _____ has seen test scores rise for the third year in a row.",
+        "source": { "name": "District Reports Gains in Reading and Math", "date": "August 20, 2024", "firstParagraph": "The school has seen test scores rise for the third year in a row, according to results released by the state.", "url": "https://www.nytimes.com/2024/08/20/education/test-scores.html" }
+      },
+      {
+        "sentence": "The _____ board voted to extend the superintendent’s contract.",
+        "source": { "name": "Superintendent Gets New Three-Year Deal", "date": "November 7, 2024", "firstParagraph": "The school board voted to extend the superintendent’s contract, after a closed-door session that lasted hours.", "url": "https://www.nytimes.com/2024/11/07/education/superintendent-contract.html" }
+      },
+      {
+        "sentence": "The _____ reopened on Monday after a virus outbreak forced a week-long closure.",
+        "source": { "name": "Campus Reopens After Cleaning and Health Review", "date": "October 14, 2024", "firstParagraph": "The school reopened on Monday after a virus outbreak forced a week-long closure, with extra hand sanitizer and cleaning in place.", "url": "https://www.nytimes.com/2024/10/14/education/school-reopening.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "national",
+    "word": "water",
+    "clues": [
+      {
+        "sentence": "The city has advised residents to boil _____ before drinking until further notice.",
+        "source": { "name": "Boil Order Issued After Main Break", "date": "July 8, 2024", "firstParagraph": "The city has advised residents to boil water before drinking until further notice, after a major pipe break.", "url": "https://www.nytimes.com/2024/07/08/us/water-boil-order.html" }
+      },
+      {
+        "sentence": "Rising _____ levels have forced hundreds of people to evacuate their homes.",
+        "source": { "name": "Flooding Spreads as River Overflows Banks", "date": "April 25, 2024", "firstParagraph": "Rising water levels have forced hundreds of people to evacuate their homes, with more rain in the forecast.", "url": "https://www.nytimes.com/2024/04/25/us/flooding-evacuation.html" }
+      },
+      {
+        "sentence": "Scientists found that _____ quality in the lake had improved over the past decade.",
+        "source": { "name": "Study Shows Lake Cleanup Efforts Paying Off", "date": "September 11, 2024", "firstParagraph": "Scientists found that water quality in the lake had improved over the past decade, crediting new regulations.", "url": "https://www.nytimes.com/2024/09/11/science/water-quality-lake.html" }
+      },
+      {
+        "sentence": "The _____ shortage has hit farmers and ranchers across the region.",
+        "source": { "name": "Drought Forces Tough Choices for Agriculture", "date": "June 2, 2024", "firstParagraph": "The water shortage has hit farmers and ranchers across the region, with some selling off livestock.", "url": "https://www.nytimes.com/2024/06/02/us/water-shortage-farmers.html" }
+      },
+      {
+        "sentence": "The _____ supply is safe and no contamination was detected, officials said.",
+        "source": { "name": "Tests Show No Contamination in Municipal Supply", "date": "January 18, 2024", "firstParagraph": "The water supply is safe and no contamination was detected, officials said, after tests were run on dozens of samples.", "url": "https://www.nytimes.com/2024/01/18/us/water-supply-safe.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "national",
+    "word": "health",
+    "clues": [
+      {
+        "sentence": "The _____ department reported a sharp drop in flu cases this season.",
+        "source": { "name": "Flu Cases Decline as Vaccination Rates Rise", "date": "February 9, 2024", "firstParagraph": "The health department reported a sharp drop in flu cases this season, attributing the decline to strong vaccination uptake.", "url": "https://www.nytimes.com/2024/02/09/health/flu-cases-decline.html" }
+      },
+      {
+        "sentence": "Experts said the _____ risks were low but advised caution for vulnerable people.",
+        "source": { "name": "Officials Weigh In on Safety of Popular Supplement", "date": "May 30, 2024", "firstParagraph": "Experts said the health risks were low but advised caution for vulnerable people, in new guidance released Thursday.", "url": "https://www.nytimes.com/2024/05/30/health/supplement-safety.html" }
+      },
+      {
+        "sentence": "The _____ care bill passed the Senate with bipartisan support.",
+        "source": { "name": "Senate Approves Major Health Care Legislation", "date": "August 4, 2024", "firstParagraph": "The health care bill passed the Senate with bipartisan support, in a vote that could expand coverage for millions.", "url": "https://www.nytimes.com/2024/08/04/us/health-care-bill-senate.html" }
+      },
+      {
+        "sentence": "Mental _____ services will be expanded in all public schools under the new plan.",
+        "source": { "name": "Schools to Add Counselors and Mental Health Support", "date": "October 22, 2024", "firstParagraph": "Mental health services will be expanded in all public schools under the new plan, which will hire hundreds of counselors.", "url": "https://www.nytimes.com/2024/10/22/education/mental-health-schools.html" }
+      },
+      {
+        "sentence": "The _____ of the population has improved in recent years, according to federal data.",
+        "source": { "name": "CDC Report Shows Gains in Life Expectancy and Outcomes", "date": "March 27, 2024", "firstParagraph": "The health of the population has improved in recent years, according to federal data, though gaps remain.", "url": "https://www.nytimes.com/2024/03/27/health/population-health-data.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "lifestyle",
+    "word": "family",
+    "clues": [
+      {
+        "sentence": "The _____ asked for privacy as they mourned the loss of their son.",
+        "source": { "name": "Relatives Issue Statement After Tragedy", "date": "November 20, 2024", "firstParagraph": "The family asked for privacy as they mourned the loss of their son, in a brief statement released by their lawyer.", "url": "https://www.nytimes.com/2024/11/20/us/family-privacy-statement.html" }
+      },
+      {
+        "sentence": "The _____ said they planned to sue the company for negligence.",
+        "source": { "name": "Lawsuit Planned After Accident at Facility", "date": "July 2, 2024", "firstParagraph": "The family said they planned to sue the company for negligence, in the latest development in the case.", "url": "https://www.nytimes.com/2024/07/02/us/family-lawsuit.html" }
+      },
+      {
+        "sentence": "_____ members gathered at the courthouse to hear the verdict.",
+        "source": { "name": "Verdict Read in High-Profile Trial", "date": "April 11, 2024", "firstParagraph": "Family members gathered at the courthouse to hear the verdict, many holding hands and weeping.", "url": "https://www.nytimes.com/2024/04/11/us/verdict-trial-family.html" }
+      },
+      {
+        "sentence": "The _____ had waited years for answers, and on Tuesday they finally got some.",
+        "source": { "name": "Decades-Old Case Reopened With New Evidence", "date": "September 25, 2024", "firstParagraph": "The family had waited years for answers, and on Tuesday they finally got some, when the case was reopened.", "url": "https://www.nytimes.com/2024/09/25/us/case-reopened-family.html" }
+      },
+      {
+        "sentence": "_____ leave policies have changed at many companies since the pandemic.",
+        "source": { "name": "More Employers Offer Paid Leave for New Parents", "date": "January 31, 2024", "firstParagraph": "Family leave policies have changed at many companies since the pandemic, with more offering paid time off.", "url": "https://www.nytimes.com/2024/01/31/business/family-leave-policies.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "politics",
+    "word": "election",
+    "clues": [
+      {
+        "sentence": "The _____ results were too close to call as of early Wednesday morning.",
+        "source": { "name": "Key States Still Counting Votes in Tight Race", "date": "November 6, 2024", "firstParagraph": "The election results were too close to call as of early Wednesday morning, with several battlegrounds still tallying.", "url": "https://www.nytimes.com/2024/11/06/us/election-results.html" }
+      },
+      {
+        "sentence": "Voter turnout in the _____ was the highest in 50 years, officials said.",
+        "source": { "name": "Record Turnout Reported as Polls Close", "date": "November 5, 2024", "firstParagraph": "Voter turnout in the election was the highest in 50 years, officials said, as lines stretched for blocks in some cities.", "url": "https://www.nytimes.com/2024/11/05/us/election-turnout.html" }
+      },
+      {
+        "sentence": "The _____ commission dismissed claims of widespread fraud.",
+        "source": { "name": "Panel Finds No Evidence of Systematic Fraud", "date": "December 10, 2024", "firstParagraph": "The election commission dismissed claims of widespread fraud, after a months-long review of ballots and procedures.", "url": "https://www.nytimes.com/2024/12/10/us/election-fraud-dismissed.html" }
+      },
+      {
+        "sentence": "Campaign spending in the _____ has already broken previous records.",
+        "source": { "name": "Fundraising Totals Soar in Most Expensive Cycle Ever", "date": "October 15, 2024", "firstParagraph": "Campaign spending in the election has already broken previous records, with billions flowing to ads and get-out-the-vote efforts.", "url": "https://www.nytimes.com/2024/10/15/us/election-spending.html" }
+      },
+      {
+        "sentence": "The _____ will be decided by a handful of swing states, analysts say.",
+        "source": { "name": "Path to Victory Narrows to Key Battlegrounds", "date": "October 28, 2024", "firstParagraph": "The election will be decided by a handful of swing states, analysts say, with both campaigns focusing there.", "url": "https://www.nytimes.com/2024/10/28/us/election-swing-states.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "budget",
+    "clues": [
+      {
+        "sentence": "The _____ proposal would cut spending on social programs while boosting defense.",
+        "source": { "name": "White House Unveils Spending Plan With Sharp Cuts", "date": "March 9, 2024", "firstParagraph": "The budget proposal would cut spending on social programs while boosting defense, setting up a fight with Congress.", "url": "https://www.nytimes.com/2024/03/09/us/budget-proposal.html" }
+      },
+      {
+        "sentence": "Lawmakers missed the _____ deadline for the third year in a row.",
+        "source": { "name": "Congress Blows Past Fiscal Deadline Amid Gridlock", "date": "October 1, 2024", "firstParagraph": "Lawmakers missed the budget deadline for the third year in a row, forcing a stopgap measure to keep government open.", "url": "https://www.nytimes.com/2024/10/01/us/budget-deadline-missed.html" }
+      },
+      {
+        "sentence": "The _____ deficit has grown larger than expected, the Treasury reported.",
+        "source": { "name": "Deficit Widens as Tax Receipts Fall Short", "date": "July 12, 2024", "firstParagraph": "The budget deficit has grown larger than expected, the Treasury reported, in a sign of rising spending and lower revenue.", "url": "https://www.nytimes.com/2024/07/12/business/budget-deficit.html" }
+      },
+      {
+        "sentence": "The _____ committee will hold hearings on the plan next week.",
+        "source": { "name": "House Panel to Review Spending Blueprint", "date": "April 18, 2024", "firstParagraph": "The budget committee will hold hearings on the plan next week, with both parties expected to offer amendments.", "url": "https://www.nytimes.com/2024/04/18/us/budget-committee-hearings.html" }
+      },
+      {
+        "sentence": "A balanced _____ is possible within five years, the report concluded.",
+        "source": { "name": "Bipartisan Group Lays Out Path to Fiscal Balance", "date": "June 5, 2024", "firstParagraph": "A balanced budget is possible within five years, the report concluded, but only with painful cuts and tax changes.", "url": "https://www.nytimes.com/2024/06/05/us/balanced-budget-report.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "national",
+    "word": "vaccine",
+    "clues": [
+      {
+        "sentence": "The new _____ was approved for use in adults by federal regulators on Friday.",
+        "source": { "name": "F.D.A. Authorizes Updated Shot for Fall Season", "date": "September 6, 2024", "firstParagraph": "The new vaccine was approved for use in adults by federal regulators on Friday, in time for the fall vaccination push.", "url": "https://www.nytimes.com/2024/09/06/health/vaccine-approved.html" }
+      },
+      {
+        "sentence": "_____ hesitancy remains high in some communities despite outreach efforts.",
+        "source": { "name": "Health Officials Struggle to Reach Vaccine-Hesitant Groups", "date": "November 14, 2024", "firstParagraph": "Vaccine hesitancy remains high in some communities despite outreach efforts, according to a new survey.", "url": "https://www.nytimes.com/2024/11/14/health/vaccine-hesitancy.html" }
+      },
+      {
+        "sentence": "The _____ showed strong effectiveness in preventing severe illness in trials.",
+        "source": { "name": "Clinical Trial Results Show Promise for New Treatment", "date": "May 7, 2024", "firstParagraph": "The vaccine showed strong effectiveness in preventing severe illness in trials, the manufacturer announced.", "url": "https://www.nytimes.com/2024/05/07/health/vaccine-trial-results.html" }
+      },
+      {
+        "sentence": "Distribution of the _____ has been slowed by supply chain problems.",
+        "source": { "name": "Rollout Hits Snags as Doses Sit in Warehouses", "date": "January 22, 2024", "firstParagraph": "Distribution of the vaccine has been slowed by supply chain problems, with some doses expiring before use.", "url": "https://www.nytimes.com/2024/01/22/health/vaccine-distribution.html" }
+      },
+      {
+        "sentence": "The _____ is recommended for everyone over six months of age, the agency said.",
+        "source": { "name": "C.D.C. Expands Recommendation for Annual Shot", "date": "October 3, 2024", "firstParagraph": "The vaccine is recommended for everyone over six months of age, the agency said, in updated guidance.", "url": "https://www.nytimes.com/2024/10/03/health/vaccine-recommendation.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "housing",
+    "clues": [
+      {
+        "sentence": "The _____ crisis has pushed rents to record levels in major cities.",
+        "source": { "name": "Renters Struggle as Costs Soar in Urban Centers", "date": "August 15, 2024", "firstParagraph": "The housing crisis has pushed rents to record levels in major cities, with many families spending half their income on shelter.", "url": "https://www.nytimes.com/2024/08/15/business/housing-crisis-rent.html" }
+      },
+      {
+        "sentence": "_____ starts fell unexpectedly last month, signaling a cooling market.",
+        "source": { "name": "Home Construction Drops as Builders Pull Back", "date": "March 19, 2024", "firstParagraph": "Housing starts fell unexpectedly last month, signaling a cooling market and higher borrowing costs.", "url": "https://www.nytimes.com/2024/03/19/business/housing-starts.html" }
+      },
+      {
+        "sentence": "The _____ authority will open the waiting list for vouchers next week.",
+        "source": { "name": "Section 8 List to Reopen for First Time in Years", "date": "June 27, 2024", "firstParagraph": "The housing authority will open the waiting list for vouchers next week, in a rare opportunity for applicants.", "url": "https://www.nytimes.com/2024/06/27/us/housing-vouchers-waitlist.html" }
+      },
+      {
+        "sentence": "Affordable _____ has become a key issue in the mayoral race.",
+        "source": { "name": "Candidates Clash Over Zoning and Development", "date": "October 8, 2024", "firstParagraph": "Affordable housing has become a key issue in the mayoral race, with candidates offering competing plans.", "url": "https://www.nytimes.com/2024/10/08/us/affordable-housing-mayor.html" }
+      },
+      {
+        "sentence": "The _____ market has been distorted by investors buying up single-family homes.",
+        "source": { "name": "Report Finds Institutional Buyers Reshaping Neighborhoods", "date": "February 21, 2024", "firstParagraph": "The housing market has been distorted by investors buying up single-family homes, according to a new study.", "url": "https://www.nytimes.com/2024/02/21/business/housing-investors.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "inflation",
+    "clues": [
+      {
+        "sentence": "_____ has cooled from its peak but remains above the central bank’s target.",
+        "source": { "name": "Fed’s Preferred Gauge Eases Slightly in Latest Reading", "date": "April 26, 2024", "firstParagraph": "Inflation has cooled from its peak but remains above the central bank’s target, data showed on Friday.", "url": "https://www.nytimes.com/2024/04/26/business/inflation-data.html" }
+      },
+      {
+        "sentence": "Rising _____ has eroded the purchasing power of workers’ paychecks.",
+        "source": { "name": "Wages Lag Behind Price Gains for Third Straight Year", "date": "July 31, 2024", "firstParagraph": "Rising inflation has eroded the purchasing power of workers’ paychecks, despite nominal wage increases.", "url": "https://www.nytimes.com/2024/07/31/business/wages-inflation.html" }
+      },
+      {
+        "sentence": "The _____ rate fell to its lowest level in more than two years.",
+        "source": { "name": "Consumer Prices Rise at Slowest Pace Since 2021", "date": "November 13, 2024", "firstParagraph": "The inflation rate fell to its lowest level in more than two years, in a sign that price pressures are easing.", "url": "https://www.nytimes.com/2024/11/13/business/inflation-rate.html" }
+      },
+      {
+        "sentence": "_____ expectations have come down, according to a survey of consumers.",
+        "source": { "name": "Americans Less Worried About Future Price Rises", "date": "September 17, 2024", "firstParagraph": "Inflation expectations have come down, according to a survey of consumers, which could help the Fed.", "url": "https://www.nytimes.com/2024/09/17/business/inflation-expectations.html" }
+      },
+      {
+        "sentence": "Fighting _____ has been the Fed’s top priority for the past two years.",
+        "source": { "name": "Central Bank Holds Rates Steady as It Weighs Next Move", "date": "December 11, 2024", "firstParagraph": "Fighting inflation has been the Fed’s top priority for the past two years, with mixed results so far.", "url": "https://www.nytimes.com/2024/12/11/business/fed-inflation-priority.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "international",
+    "word": "sanctions",
+    "clues": [
+      {
+        "sentence": "The _____ have crippled the country’s ability to sell oil on world markets.",
+        "source": { "name": "Oil Exports Plummet as Penalties Bite", "date": "May 14, 2024", "firstParagraph": "The sanctions have crippled the country’s ability to sell oil on world markets, according to trade data.", "url": "https://www.nytimes.com/2024/05/14/world/sanctions-oil.html" }
+      },
+      {
+        "sentence": "Western _____ target individuals and entities linked to the regime.",
+        "source": { "name": "U.S. and E.U. Add Dozens to Blacklist", "date": "August 22, 2024", "firstParagraph": "Western sanctions target individuals and entities linked to the regime, freezing assets and banning travel.", "url": "https://www.nytimes.com/2024/08/22/world/sanctions-blacklist.html" }
+      },
+      {
+        "sentence": "The _____ were intended to pressure the government to change course.",
+        "source": { "name": "Diplomats Defend Tough Measures as Only Leverage", "date": "March 4, 2024", "firstParagraph": "The sanctions were intended to pressure the government to change course, but critics say they hurt ordinary people.", "url": "https://www.nytimes.com/2024/03/04/world/sanctions-pressure.html" }
+      },
+      {
+        "sentence": "Easing _____ could unlock billions in frozen reserves, analysts said.",
+        "source": { "name": "Deal Could Free Central Bank Assets", "date": "October 30, 2024", "firstParagraph": "Easing sanctions could unlock billions in frozen reserves, analysts said, if negotiators reach an agreement.", "url": "https://www.nytimes.com/2024/10/30/world/sanctions-easing.html" }
+      },
+      {
+        "sentence": "The _____ regime has been criticized for loopholes that allow evasion.",
+        "source": { "name": "Report Details How Goods Still Flow Through Third Countries", "date": "June 9, 2024", "firstParagraph": "The sanctions regime has been criticized for loopholes that allow evasion, with goods moving through third countries.", "url": "https://www.nytimes.com/2024/06/09/world/sanctions-evasion.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "national",
+    "word": "infrastructure",
+    "clues": [
+      {
+        "sentence": "The _____ bill will send billions to states for roads, bridges and broadband.",
+        "source": { "name": "Congress Passes Major Public Works Package", "date": "November 15, 2024", "firstParagraph": "The infrastructure bill will send billions to states for roads, bridges and broadband, in one of the largest such investments in decades.", "url": "https://www.nytimes.com/2024/11/15/us/infrastructure-bill.html" }
+      },
+      {
+        "sentence": "Aging _____ has left the grid vulnerable to extreme weather.",
+        "source": { "name": "Power Failures Rise as Heat and Storms Strain Systems", "date": "July 6, 2024", "firstParagraph": "Aging infrastructure has left the grid vulnerable to extreme weather, engineers and regulators have warned.", "url": "https://www.nytimes.com/2024/07/06/us/infrastructure-grid.html" }
+      },
+      {
+        "sentence": "The _____ spending is meant to create jobs and boost long-term growth.",
+        "source": { "name": "White House Touts Economic Benefits of Investment", "date": "January 25, 2024", "firstParagraph": "The infrastructure spending is meant to create jobs and boost long-term growth, administration officials said.", "url": "https://www.nytimes.com/2024/01/25/us/infrastructure-jobs.html" }
+      },
+      {
+        "sentence": "Critical _____ was damaged in the attack, officials confirmed.",
+        "source": { "name": "Assessment Underway After Strike on Key Facilities", "date": "April 3, 2024", "firstParagraph": "Critical infrastructure was damaged in the attack, officials confirmed, though the full extent was still unclear.", "url": "https://www.nytimes.com/2024/04/03/world/infrastructure-attack.html" }
+      },
+      {
+        "sentence": "_____ investment has lagged in the U.S. compared with other wealthy nations.",
+        "source": { "name": "Report Ranks U.S. Behind Peers on Public Investment", "date": "September 9, 2024", "firstParagraph": "Infrastructure investment has lagged in the U.S. compared with other wealthy nations, the report found.", "url": "https://www.nytimes.com/2024/09/09/us/infrastructure-investment.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "national",
+    "word": "surveillance",
+    "clues": [
+      {
+        "sentence": "The _____ program was revealed in a series of leaked documents.",
+        "source": { "name": "Leaks Expose Scope of Secret Intelligence Effort", "date": "June 18, 2024", "firstParagraph": "The surveillance program was revealed in a series of leaked documents, raising questions about privacy and oversight.", "url": "https://www.nytimes.com/2024/06/18/us/surveillance-leaks.html" }
+      },
+      {
+        "sentence": "Civil liberties groups have challenged the _____ in court.",
+        "source": { "name": "Lawsuit Argues Program Violates Fourth Amendment", "date": "February 14, 2024", "firstParagraph": "Civil liberties groups have challenged the surveillance in court, arguing it collects data on Americans without warrants.", "url": "https://www.nytimes.com/2024/02/14/us/surveillance-lawsuit.html" }
+      },
+      {
+        "sentence": "Mass _____ has become easier with the spread of facial recognition.",
+        "source": { "name": "Technology Outpacing Law, Critics Say", "date": "October 5, 2024", "firstParagraph": "Mass surveillance has become easier with the spread of facial recognition, according to a new report.", "url": "https://www.nytimes.com/2024/10/05/technology/surveillance-facial-recognition.html" }
+      },
+      {
+        "sentence": "The _____ court renews the authority for the program each year.",
+        "source": { "name": "Secret Panel Approves Extension of Spying Powers", "date": "April 17, 2024", "firstParagraph": "The surveillance court renews the authority for the program each year, though details remain classified.", "url": "https://www.nytimes.com/2024/04/17/us/surveillance-court.html" }
+      },
+      {
+        "sentence": "Reform of the _____ apparatus has stalled in Congress.",
+        "source": { "name": "Bipartisan Push for Oversight Fails to Gain Traction", "date": "August 29, 2024", "firstParagraph": "Reform of the surveillance apparatus has stalled in Congress, despite bipartisan concern about abuse.", "url": "https://www.nytimes.com/2024/08/29/us/surveillance-reform.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "business",
+    "word": "recession",
+    "clues": [
+      {
+        "sentence": "The _____ was shallow but left lasting scars on the labor market.",
+        "source": { "name": "Economists Reassess Downturn’s Impact on Workers", "date": "March 28, 2024", "firstParagraph": "The recession was shallow but left lasting scars on the labor market, with some groups still struggling to recover.", "url": "https://www.nytimes.com/2024/03/28/business/recession-labor.html" }
+      },
+      {
+        "sentence": "Fears of a _____ have receded as growth has held up better than expected.",
+        "source": { "name": "Soft Landing Hopes Rise as Data Stays Strong", "date": "November 1, 2024", "firstParagraph": "Fears of a recession have receded as growth has held up better than expected, though risks remain.", "url": "https://www.nytimes.com/2024/11/01/business/recession-fears.html" }
+      },
+      {
+        "sentence": "The _____ officially began in the first quarter of last year, the panel said.",
+        "source": { "name": "Dating Committee Makes Call on Business Cycle", "date": "July 21, 2024", "firstParagraph": "The recession officially began in the first quarter of last year, the panel said, in a determination that can lag.", "url": "https://www.nytimes.com/2024/07/21/business/recession-dating.html" }
+      },
+      {
+        "sentence": "A _____ could force the Fed to cut rates more aggressively.",
+        "source": { "name": "Central Bank Weighs Response to Downturn", "date": "January 12, 2024", "firstParagraph": "A recession could force the Fed to cut rates more aggressively, some officials have suggested in recent remarks.", "url": "https://www.nytimes.com/2024/01/12/business/recession-fed-rates.html" }
+      },
+      {
+        "sentence": "The _____ hit young workers and minorities especially hard.",
+        "source": { "name": "Study Documents Uneven Recovery Across Groups", "date": "May 23, 2024", "firstParagraph": "The recession hit young workers and minorities especially hard, with gaps in employment and wages persisting.", "url": "https://www.nytimes.com/2024/05/23/business/recession-inequality.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "politics",
+    "word": "ratification",
+    "clues": [
+      {
+        "sentence": "The _____ of the treaty requires approval by two-thirds of the Senate.",
+        "source": { "name": "White House Pushes for Vote on International Pact", "date": "September 12, 2024", "firstParagraph": "The ratification of the treaty requires approval by two-thirds of the Senate, a high bar that has blocked past deals.", "url": "https://www.nytimes.com/2024/09/12/us/treaty-ratification-senate.html" }
+      },
+      {
+        "sentence": "_____ of the amendment would make the change permanent.",
+        "source": { "name": "Constitutional Change One State Away From Enactment", "date": "June 4, 2024", "firstParagraph": "Ratification of the amendment would make the change permanent, after a decades-long campaign by advocates.", "url": "https://www.nytimes.com/2024/06/04/us/amendment-ratification.html" }
+      },
+      {
+        "sentence": "The _____ process could take months or even years.",
+        "source": { "name": "Diplomats Say Deal Must Clear Many Hurdles", "date": "February 27, 2024", "firstParagraph": "The ratification process could take months or even years, with each country following its own procedures.", "url": "https://www.nytimes.com/2024/02/27/world/ratification-process.html" }
+      },
+      {
+        "sentence": "Opponents of _____ have mounted a campaign to block the agreement.",
+        "source": { "name": "Coalition Fights Trade Pact in Key States", "date": "October 19, 2024", "firstParagraph": "Opponents of ratification have mounted a campaign to block the agreement, with ads and grassroots organizing.", "url": "https://www.nytimes.com/2024/10/19/us/ratification-opposition.html" }
+      },
+      {
+        "sentence": "_____ by the remaining countries would bring the accord into force.",
+        "source": { "name": "Climate Pact Nears Threshold for Taking Effect", "date": "April 8, 2024", "firstParagraph": "Ratification by the remaining countries would bring the accord into force, potentially by the end of the year.", "url": "https://www.nytimes.com/2024/04/08/climate/ratification-accord.html" }
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "international",
+    "word": "sovereignty",
+    "clues": [
+      {
+        "sentence": "The dispute raises fundamental questions about _____ and territorial integrity.",
+        "source": { "name": "Conflict Puts International Law in Spotlight", "date": "August 7, 2024", "firstParagraph": "The dispute raises fundamental questions about sovereignty and territorial integrity, legal scholars said.", "url": "https://www.nytimes.com/2024/08/07/world/sovereignty-dispute.html" }
+      },
+      {
+        "sentence": "_____ over the region has been contested for decades.",
+        "source": { "name": "Historical Grievances Fuel Ongoing Tension", "date": "November 28, 2024", "firstParagraph": "Sovereignty over the region has been contested for decades, with both sides citing maps and treaties.", "url": "https://www.nytimes.com/2024/11/28/world/sovereignty-region.html" }
+      },
+      {
+        "sentence": "Data _____ has become a flashpoint in trade talks.",
+        "source": { "name": "E.U. and U.S. Clash Over Where Data Can Be Stored", "date": "March 14, 2024", "firstParagraph": "Data sovereignty has become a flashpoint in trade talks, with Europe insisting data stay within its borders.", "url": "https://www.nytimes.com/2024/03/14/technology/data-sovereignty.html" }
+      },
+      {
+        "sentence": "The law was framed as a defense of national _____.",
+        "source": { "name": "Parliament Passes Controversial Measure", "date": "July 3, 2024", "firstParagraph": "The law was framed as a defense of national sovereignty, though critics said it targeted minorities.", "url": "https://www.nytimes.com/2024/07/03/world/sovereignty-law.html" }
+      },
+      {
+        "sentence": "Tribal _____ has been recognized in a landmark court ruling.",
+        "source": { "name": "Supreme Court Sides With Tribe in Jurisdiction Case", "date": "December 2, 2024", "firstParagraph": "Tribal sovereignty has been recognized in a landmark court ruling that could affect criminal and civil authority.", "url": "https://www.nytimes.com/2024/12/02/us/tribal-sovereignty-court.html" }
+      }
+    ]
+  }
+]

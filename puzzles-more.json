@@ -1,0 +1,202 @@
+[
+  {
+    "difficulty": "easy",
+    "section": "national",
+    "word": "court",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Upholds Ruling on Voting Rights", "source": { "name": "Court Upholds Ruling on Voting Rights", "date": "March 11, 2024", "firstParagraph": "The court upheld the ruling on voting rights in a 5-4 decision that could affect elections in several states this fall.", "url": "https://www.nytimes.com/2024/03/11/us/court-voting-rights.html" } },
+      { "type": "lead", "sentence": "The _____ heard arguments for nearly three hours in the case that could reshape federal power.", "source": { "name": "Justices Weigh Limits on Agency Authority", "date": "January 17, 2024", "firstParagraph": "The court heard arguments for nearly three hours in the case that could reshape federal power, with conservative justices signaling support for limits on agencies.", "url": "https://www.nytimes.com/2024/01/17/us/court-agency-authority.html" } },
+      { "type": "headline", "sentence": "Supreme _____ to Review Abortion Pill Access", "source": { "name": "Supreme Court to Review Abortion Pill Access", "date": "December 13, 2023", "firstParagraph": "The Supreme Court agreed to review a ruling that would restrict access to the abortion pill, setting up a major decision next year.", "url": "https://www.nytimes.com/2023/12/13/us/court-abortion-pill.html" } },
+      { "type": "lead", "sentence": "The _____ ruled that the law was unconstitutional and blocked its enforcement.", "source": { "name": "Federal Judge Blocks State Immigration Law", "date": "August 22, 2024", "firstParagraph": "The court ruled that the law was unconstitutional and blocked its enforcement, in a victory for the Biden administration.", "url": "https://www.nytimes.com/2024/08/22/us/court-immigration-law.html" } },
+      { "type": "headline", "sentence": "Appeals _____ Sides With Publishers in Copyright Case", "source": { "name": "Appeals Court Sides With Publishers in Copyright Case", "date": "May 6, 2024", "firstParagraph": "An appeals court sided with publishers in a copyright case that could limit how much of a work can be quoted without permission.", "url": "https://www.nytimes.com/2024/05/06/business/court-copyright.html" } }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "business",
+    "word": "market",
+    "clues": [
+      { "type": "headline", "sentence": "Stock _____ Rallies on Strong Jobs Data", "source": { "name": "Stock Market Rallies on Strong Jobs Data", "date": "February 2, 2024", "firstParagraph": "The stock market rallied on Friday after a strong jobs report suggested the economy could avoid a recession.", "url": "https://www.nytimes.com/2024/02/02/business/stock-market-jobs.html" } },
+      { "type": "lead", "sentence": "The _____ has been volatile in recent weeks as investors weigh interest rates and earnings.", "source": { "name": "Investors Brace for More Swings as Fed Holds Steady", "date": "November 7, 2024", "firstParagraph": "The market has been volatile in recent weeks as investors weigh interest rates and earnings, with many expecting the turbulence to continue.", "url": "https://www.nytimes.com/2024/11/07/business/market-volatility.html" } },
+      { "type": "headline", "sentence": "Housing _____ Cools as Mortgage Rates Rise", "source": { "name": "Housing Market Cools as Mortgage Rates Rise", "date": "October 12, 2024", "firstParagraph": "Sales of existing homes fell again as the housing market cooled and mortgage rates climbed above 7 percent.", "url": "https://www.nytimes.com/2024/10/12/business/housing-market.html" } },
+      { "type": "lead", "sentence": "The _____ closed at a record high for the third time this month.", "source": { "name": "S&P 500 Notches Another Record in Quiet Session", "date": "July 15, 2024", "firstParagraph": "The market closed at a record high for the third time this month, with tech shares leading the way.", "url": "https://www.nytimes.com/2024/07/15/business/market-record.html" } },
+      { "type": "headline", "sentence": "Labor _____ Stays Tight Despite Fed Rate Hikes", "source": { "name": "Labor Market Stays Tight Despite Fed Rate Hikes", "date": "April 5, 2024", "firstParagraph": "Employers added more jobs than expected in March, as the labor market stayed tight despite the Federal Reserve’s campaign to cool the economy.", "url": "https://www.nytimes.com/2024/04/05/business/labor-market-jobs.html" } }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "international",
+    "word": "war",
+    "clues": [
+      { "type": "headline", "sentence": "_____ in Ukraine Enters Third Year With No End in Sight", "source": { "name": "War in Ukraine Enters Third Year With No End in Sight", "date": "February 24, 2024", "firstParagraph": "The war in Ukraine entered its third year on Saturday with no end in sight, as both sides dig in and casualties mount.", "url": "https://www.nytimes.com/2024/02/24/world/ukraine-war-anniversary.html" } },
+      { "type": "lead", "sentence": "The _____ has displaced millions and destroyed cities across the region.", "source": { "name": "U.N. Reports Record Displacement in Conflict Zones", "date": "June 18, 2024", "firstParagraph": "The war has displaced millions and destroyed cities across the region, according to a new United Nations report.", "url": "https://www.nytimes.com/2024/06/18/world/war-displacement.html" } },
+      { "type": "headline", "sentence": "Congress Approves $60 Billion in _____ Aid for Ukraine", "source": { "name": "Congress Approves $60 Billion in War Aid for Ukraine", "date": "April 23, 2024", "firstParagraph": "Congress approved $60 billion in military and humanitarian aid for Ukraine after months of delay and debate.", "url": "https://www.nytimes.com/2024/04/23/us/ukraine-aid-congress.html" } },
+      { "type": "lead", "sentence": "_____ crimes investigators have begun collecting evidence from the scene.", "source": { "name": "International Team Documents Alleged Atrocities", "date": "September 4, 2024", "firstParagraph": "War crimes investigators have begun collecting evidence from the scene, in a step that could lead to prosecutions.", "url": "https://www.nytimes.com/2024/09/04/world/war-crimes-investigation.html" } },
+      { "type": "headline", "sentence": "Cease-Fire Talks Stall as _____ Intensifies", "source": { "name": "Cease-Fire Talks Stall as War Intensifies", "date": "November 19, 2024", "firstParagraph": "Diplomatic efforts to secure a cease-fire have stalled as fighting intensified in the south and east.", "url": "https://www.nytimes.com/2024/11/19/world/ceasefire-talks-stall.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "politics",
+    "word": "vote",
+    "clues": [
+      { "type": "headline", "sentence": "Early _____ Totals Show Strong Turnout in Key States", "source": { "name": "Early Vote Totals Show Strong Turnout in Key States", "date": "November 1, 2024", "firstParagraph": "More than 40 million Americans had already cast ballots as early vote totals showed strong turnout in key states.", "url": "https://www.nytimes.com/2024/11/01/us/early-vote-turnout.html" } },
+      { "type": "lead", "sentence": "The _____ was 52 to 48, with three senators crossing party lines.", "source": { "name": "Senate Passes Border Bill in Bipartisan Vote", "date": "February 8, 2024", "firstParagraph": "The vote was 52 to 48, with three senators crossing party lines to support the measure.", "url": "https://www.nytimes.com/2024/02/08/us/senate-border-vote.html" } },
+      { "type": "headline", "sentence": "Supreme Court to Hear Case on _____ Counting", "source": { "name": "Supreme Court to Hear Case on Vote Counting", "date": "October 2, 2024", "firstParagraph": "The Supreme Court agreed to hear a case that could change how votes are counted in close elections.", "url": "https://www.nytimes.com/2024/10/02/us/vote-counting-supreme-court.html" } },
+      { "type": "lead", "sentence": "The right to _____ has been at the center of the legal battle for years.", "source": { "name": "Appeals Court Rejects Restrictive Voting Law", "date": "July 29, 2024", "firstParagraph": "The right to vote has been at the center of the legal battle for years, with advocates saying the law discriminates against minorities.", "url": "https://www.nytimes.com/2024/07/29/us/voting-rights-appeal.html" } },
+      { "type": "headline", "sentence": "Recount Ordered After _____ Margin Under 0.5%", "source": { "name": "Recount Ordered After Vote Margin Under 0.5%", "date": "November 12, 2024", "firstParagraph": "State law requires an automatic recount when the vote margin is less than half a percentage point.", "url": "https://www.nytimes.com/2024/11/12/us/recount-ordered.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "trade",
+    "clues": [
+      { "type": "headline", "sentence": "U.S. and E.U. Reach _____ Deal on Critical Minerals", "source": { "name": "U.S. and E.U. Reach Trade Deal on Critical Minerals", "date": "March 10, 2024", "firstParagraph": "The United States and European Union reached a trade deal on critical minerals, easing tensions over electric vehicle subsidies.", "url": "https://www.nytimes.com/2024/03/10/business/trade-deal-minerals.html" } },
+      { "type": "lead", "sentence": "_____ between the two countries has grown sharply over the past decade.", "source": { "name": "Report Documents Deepening Economic Ties", "date": "August 14, 2024", "firstParagraph": "Trade between the two countries has grown sharply over the past decade, with bilateral flows now exceeding $300 billion a year.", "url": "https://www.nytimes.com/2024/08/14/business/trade-bilateral.html" } },
+      { "type": "headline", "sentence": "_____ War With China Could Cost U.S. Jobs, Study Says", "source": { "name": "Trade War With China Could Cost U.S. Jobs, Study Says", "date": "January 22, 2024", "firstParagraph": "An escalation of the trade war with China could cost the United States hundreds of thousands of jobs, according to a new study.", "url": "https://www.nytimes.com/2024/01/22/business/trade-war-china.html" } },
+      { "type": "lead", "sentence": "The _____ deficit narrowed for the second month in a row, the Commerce Department said.", "source": { "name": "Trade Deficit Shrinks as Exports Rise", "date": "June 6, 2024", "firstParagraph": "The trade deficit narrowed for the second month in a row, the Commerce Department said, as exports rose and oil imports fell.", "url": "https://www.nytimes.com/2024/06/06/business/trade-deficit.html" } },
+      { "type": "headline", "sentence": "_____ Representative Warns of Retaliation Over Tariffs", "source": { "name": "Trade Representative Warns of Retaliation Over Tariffs", "date": "September 25, 2024", "firstParagraph": "The U.S. trade representative warned that American tariffs could prompt retaliation from allies and undermine global rules.", "url": "https://www.nytimes.com/2024/09/25/business/trade-tariffs-retaliation.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "national",
+    "word": "research",
+    "clues": [
+      { "type": "headline", "sentence": "New _____ Links Social Media to Teen Anxiety", "source": { "name": "New Research Links Social Media to Teen Anxiety", "date": "May 14, 2024", "firstParagraph": "A large new study found that teens who spent more time on social media had higher rates of anxiety and depression.", "url": "https://www.nytimes.com/2024/05/14/health/research-social-media-teens.html" } },
+      { "type": "lead", "sentence": "The _____ was published in a peer-reviewed journal after years of clinical trials.", "source": { "name": "Breakthrough Drug Shows Promise in Cancer Trial", "date": "October 30, 2024", "firstParagraph": "The research was published in a peer-reviewed journal after years of clinical trials, and could lead to a new treatment option.", "url": "https://www.nytimes.com/2024/10/30/health/research-cancer-drug.html" } },
+      { "type": "headline", "sentence": "Federal _____ Funding at Risk in Budget Fight", "source": { "name": "Federal Research Funding at Risk in Budget Fight", "date": "November 8, 2024", "firstParagraph": "Scientists warned that federal research funding could be cut in the budget fight, harming everything from climate science to cancer studies.", "url": "https://www.nytimes.com/2024/11/08/us/research-funding-budget.html" } },
+      { "type": "lead", "sentence": "_____ shows that the treatment is effective in about 70 percent of patients.", "source": { "name": "Study Bolsters Case for New Alzheimer’s Drug", "date": "July 3, 2024", "firstParagraph": "Research shows that the treatment is effective in about 70 percent of patients, though side effects remain a concern.", "url": "https://www.nytimes.com/2024/07/03/health/research-alzheimers.html" } },
+      { "type": "headline", "sentence": "University _____ Team Discovers New Species", "source": { "name": "University Research Team Discovers New Species", "date": "April 17, 2024", "firstParagraph": "A university research team discovered a new species of frog in the Amazon, the first such find in the region in decades.", "url": "https://www.nytimes.com/2024/04/17/science/research-new-species.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "international",
+    "word": "border",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Crossings Hit Record High, Officials Say", "source": { "name": "Border Crossings Hit Record High, Officials Say", "date": "December 20, 2024", "firstParagraph": "The number of people crossing the southern border hit a record high this month, according to federal officials.", "url": "https://www.nytimes.com/2024/12/20/us/border-crossings-record.html" } },
+      { "type": "lead", "sentence": "The _____ has become a central issue in the race for the White House.", "source": { "name": "Candidates Clash Over Immigration in Debate", "date": "October 10, 2024", "firstParagraph": "The border has become a central issue in the race for the White House, with both sides offering sharply different plans.", "url": "https://www.nytimes.com/2024/10/10/us/border-immigration-debate.html" } },
+      { "type": "headline", "sentence": "_____ Patrol Chief Testifies Before Congress", "source": { "name": "Border Patrol Chief Testifies Before Congress", "date": "March 21, 2024", "firstParagraph": "The head of the Border Patrol testified before Congress on staffing, technology and the flow of migrants.", "url": "https://www.nytimes.com/2024/03/21/us/border-patrol-congress.html" } },
+      { "type": "lead", "sentence": "_____ security was tightened after intelligence warned of possible threats.", "source": { "name": "U.S. Increases Security at Entry Points", "date": "August 5, 2024", "firstParagraph": "Border security was tightened after intelligence warned of possible threats, with extra screening at major airports and land crossings.", "url": "https://www.nytimes.com/2024/08/05/us/border-security.html" } },
+      { "type": "headline", "sentence": "Deal to Reopen _____ Stalls in Senate", "source": { "name": "Deal to Reopen Border Stalls in Senate", "date": "February 15, 2024", "firstParagraph": "A bipartisan deal to provide funding for border enforcement and asylum processing stalled in the Senate amid Republican opposition.", "url": "https://www.nytimes.com/2024/02/15/us/border-deal-senate.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "deal",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Would Merge Two of Nation’s Largest Banks", "source": { "name": "Deal Would Merge Two of Nation’s Largest Banks", "date": "October 7, 2024", "firstParagraph": "The merger would create the country’s second-largest bank by assets, if regulators approve the deal.", "url": "https://www.nytimes.com/2024/10/07/business/deal-bank-merger.html" } },
+      { "type": "lead", "sentence": "The _____ is worth an estimated $2 billion and could close by year’s end.", "source": { "name": "Tech Giant to Acquire Start-Up in Cash-and-Stock Deal", "date": "June 24, 2024", "firstParagraph": "The deal is worth an estimated $2 billion and could close by year’s end, subject to regulatory review.", "url": "https://www.nytimes.com/2024/06/24/business/deal-acquisition.html" } },
+      { "type": "headline", "sentence": "Strike Ends as Union Reaches _____ With Automaker", "source": { "name": "Strike Ends as Union Reaches Deal With Automaker", "date": "November 3, 2024", "firstParagraph": "The six-week strike ended after the union reached a deal with the automaker that included raises and battery plant protections.", "url": "https://www.nytimes.com/2024/11/03/business/deal-strike-union.html" } },
+      { "type": "lead", "sentence": "The _____ fell apart at the last minute over a dispute about intellectual property.", "source": { "name": "Merger Talks Collapse Between Rival Retailers", "date": "January 30, 2024", "firstParagraph": "The deal fell apart at the last minute over a dispute about intellectual property, people familiar with the talks said.", "url": "https://www.nytimes.com/2024/01/30/business/deal-merger-collapse.html" } },
+      { "type": "headline", "sentence": "Climate _____ Reached at U.N. Summit", "source": { "name": "Climate Deal Reached at U.N. Summit", "date": "December 14, 2024", "firstParagraph": "Negotiators reached a climate deal at the U.N. summit that would phase down fossil fuels and boost funding for poor nations.", "url": "https://www.nytimes.com/2024/12/14/climate/deal-cop-summit.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "national",
+    "word": "crime",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Rate Falls to Lowest Level in Decades", "source": { "name": "Crime Rate Falls to Lowest Level in Decades", "date": "September 16, 2024", "firstParagraph": "Violent crime fell again last year, according to the F.B.I., reaching its lowest level in decades in many cities.", "url": "https://www.nytimes.com/2024/09/16/us/crime-rate-fbi.html" } },
+      { "type": "lead", "sentence": "The _____ bill would fund more police and expand prevention programs.", "source": { "name": "Congress Nears Deal on Public Safety Package", "date": "April 9, 2024", "firstParagraph": "The crime bill would fund more police and expand prevention programs, in a compromise that could pass both chambers.", "url": "https://www.nytimes.com/2024/04/09/us/crime-bill-congress.html" } },
+      { "type": "headline", "sentence": "Hate _____ Up Sharply, Report Finds", "source": { "name": "Hate Crime Up Sharply, Report Finds", "date": "March 4, 2024", "firstParagraph": "Reports of hate crimes rose sharply last year, according to the F.B.I., with antisemitic incidents leading the increase.", "url": "https://www.nytimes.com/2024/03/04/us/hate-crime-report.html" } },
+      { "type": "lead", "sentence": "_____ in the city has become a major issue in the mayoral campaign.", "source": { "name": "Candidates Offer Competing Plans to Address Violence", "date": "October 21, 2024", "firstParagraph": "Crime in the city has become a major issue in the mayoral campaign, with candidates offering competing plans to address violence.", "url": "https://www.nytimes.com/2024/10/21/us/crime-mayor-campaign.html" } },
+      { "type": "headline", "sentence": "White-Collar _____ Trial Opens With Jury Selection", "source": { "name": "White-Collar Crime Trial Opens With Jury Selection", "date": "July 11, 2024", "firstParagraph": "The trial of the former executive opened with jury selection, in a case that could send him to prison for years.", "url": "https://www.nytimes.com/2024/07/11/business/crime-trial-executive.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "business",
+    "word": "energy",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Prices Surge as Heat Wave Strains Grid", "source": { "name": "Energy Prices Surge as Heat Wave Strains Grid", "date": "August 9, 2024", "firstParagraph": "Electricity prices spiked as a heat wave pushed demand to record levels and strained the grid in several states.", "url": "https://www.nytimes.com/2024/08/09/business/energy-prices-heat.html" } },
+      { "type": "lead", "sentence": "The _____ transition will require trillions in investment, according to the report.", "source": { "name": "I.E.A. Says Clean Energy Investment Must Triple", "date": "October 3, 2024", "firstParagraph": "The energy transition will require trillions in investment, according to the report, which called for faster deployment of renewables.", "url": "https://www.nytimes.com/2024/10/03/climate/energy-investment-iea.html" } },
+      { "type": "headline", "sentence": "Renewable _____ Now Accounts for Quarter of U.S. Power", "source": { "name": "Renewable Energy Now Accounts for Quarter of U.S. Power", "date": "May 28, 2024", "firstParagraph": "Wind and solar now account for about a quarter of U.S. electricity generation, according to new federal data.", "url": "https://www.nytimes.com/2024/05/28/climate/renewable-energy-us.html" } },
+      { "type": "lead", "sentence": "_____ Secretary announced $7 billion in grants for hydrogen hubs.", "source": { "name": "Biden Administration Backs Hydrogen Projects", "date": "October 13, 2023", "firstParagraph": "The energy secretary announced $7 billion in grants for hydrogen hubs, in a push to scale up clean fuel.", "url": "https://www.nytimes.com/2023/10/13/climate/energy-hydrogen.html" } },
+      { "type": "headline", "sentence": "Nuclear _____ Gets Boost in Bipartisan Bill", "source": { "name": "Nuclear Energy Gets Boost in Bipartisan Bill", "date": "February 29, 2024", "firstParagraph": "A bipartisan bill would streamline permits for new nuclear plants and fund research into advanced reactors.", "url": "https://www.nytimes.com/2024/02/29/climate/nuclear-energy-bill.html" } }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "politics",
+    "word": "reform",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Bill Clears Senate in Bipartisan Vote", "source": { "name": "Reform Bill Clears Senate in Bipartisan Vote", "date": "June 12, 2024", "firstParagraph": "A sweeping reform bill cleared the Senate with support from both parties, though it faces an uncertain path in the House.", "url": "https://www.nytimes.com/2024/06/12/us/reform-bill-senate.html" } },
+      { "type": "lead", "sentence": "The _____ would limit the power of large tech platforms and strengthen antitrust enforcement.", "source": { "name": "Lawmakers Unveil Tech Reform Package", "date": "September 2, 2024", "firstParagraph": "The reform would limit the power of large tech platforms and strengthen antitrust enforcement, sponsors said.", "url": "https://www.nytimes.com/2024/09/02/technology/reform-tech-antitrust.html" } },
+      { "type": "headline", "sentence": "Immigration _____ Stalls Again in Congress", "source": { "name": "Immigration Reform Stalls Again in Congress", "date": "March 18, 2024", "firstParagraph": "Efforts to pass immigration reform stalled again in Congress, as lawmakers failed to agree on border security and visas.", "url": "https://www.nytimes.com/2024/03/18/us/immigration-reform-stalls.html" } },
+      { "type": "lead", "sentence": "_____ advocates have pushed for the change for years but face stiff opposition.", "source": { "name": "Campaign Finance Overhaul Faces Long Odds", "date": "November 25, 2024", "firstParagraph": "Reform advocates have pushed for the change for years but face stiff opposition from both parties.", "url": "https://www.nytimes.com/2024/11/25/us/reform-campaign-finance.html" } },
+      { "type": "headline", "sentence": "Police _____ Proposal Draws Mixed Reaction", "source": { "name": "Police Reform Proposal Draws Mixed Reaction", "date": "July 22, 2024", "firstParagraph": "A new police reform proposal drew mixed reaction, with activists saying it did not go far enough and unions opposing key provisions.", "url": "https://www.nytimes.com/2024/07/22/us/police-reform-proposal.html" } }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "national",
+    "word": "security",
+    "clues": [
+      { "type": "headline", "sentence": "National _____ Adviser to Brief Congress", "source": { "name": "National Security Adviser to Brief Congress", "date": "April 2, 2024", "firstParagraph": "The national security adviser will brief Congress in a closed session on the latest intelligence and threats.", "url": "https://www.nytimes.com/2024/04/02/us/security-briefing-congress.html" } },
+      { "type": "lead", "sentence": "_____ at the event was tightened after a threat was reported.", "source": { "name": "Extra Measures in Place for High-Profile Summit", "date": "October 18, 2024", "firstParagraph": "Security at the event was tightened after a threat was reported, with additional screening and law enforcement.", "url": "https://www.nytimes.com/2024/10/18/us/security-summit.html" } },
+      { "type": "headline", "sentence": "Social _____ Benefits Could Expand Under New Plan", "source": { "name": "Social Security Benefits Could Expand Under New Plan", "date": "August 30, 2024", "firstParagraph": "A new plan would expand Social Security benefits for the poorest retirees and extend the program’s solvency.", "url": "https://www.nytimes.com/2024/08/30/us/social-security-plan.html" } },
+      { "type": "lead", "sentence": "The _____ clearance process can take months or years for some applicants.", "source": { "name": "Backlog in Security Clearances Slows Hiring", "date": "January 15, 2024", "firstParagraph": "The security clearance process can take months or years for some applicants, delaying hiring at federal agencies.", "url": "https://www.nytimes.com/2024/01/15/us/security-clearance-backlog.html" } },
+      { "type": "headline", "sentence": "Cybersecurity _____ Breach Affects Millions", "source": { "name": "Cybersecurity Breach Affects Millions", "date": "December 5, 2024", "firstParagraph": "A major cybersecurity breach at a health insurer could affect millions of customers, the company said.", "url": "https://www.nytimes.com/2024/12/05/technology/security-breach.html" } }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "business",
+    "word": "growth",
+    "clues": [
+      { "type": "headline", "sentence": "Economic _____ Slows to 1.8% in Third Quarter", "source": { "name": "Economic Growth Slows to 1.8% in Third Quarter", "date": "October 30, 2024", "firstParagraph": "The economy grew at an annual rate of 1.8 percent in the third quarter, down from 2.5 percent in the prior quarter.", "url": "https://www.nytimes.com/2024/10/30/business/growth-gdp.html" } },
+      { "type": "lead", "sentence": "The _____ in renewable energy jobs has outpaced the rest of the economy.", "source": { "name": "Clean Energy Employment Surges, Report Says", "date": "June 7, 2024", "firstParagraph": "The growth in renewable energy jobs has outpaced the rest of the economy, according to a new report.", "url": "https://www.nytimes.com/2024/06/07/business/growth-clean-energy-jobs.html" } },
+      { "type": "headline", "sentence": "Population _____ Slows in Most Developed Nations", "source": { "name": "Population Growth Slows in Most Developed Nations", "date": "March 14, 2024", "firstParagraph": "Population growth has slowed or reversed in most developed nations, with implications for labor forces and pensions.", "url": "https://www.nytimes.com/2024/03/14/world/population-growth.html" } },
+      { "type": "lead", "sentence": "_____ stocks have led the market this year as investors bet on expansion.", "source": { "name": "Growth Stocks Rally as Earnings Beat Expectations", "date": "November 21, 2024", "firstParagraph": "Growth stocks have led the market this year as investors bet on expansion and higher profits.", "url": "https://www.nytimes.com/2024/11/21/business/growth-stocks-rally.html" } },
+      { "type": "headline", "sentence": "Revenue _____ Beats Forecasts at Major Tech Firms", "source": { "name": "Revenue Growth Beats Forecasts at Major Tech Firms", "date": "July 25, 2024", "firstParagraph": "Several major tech firms reported revenue growth that beat forecasts, sending shares higher in after-hours trading.", "url": "https://www.nytimes.com/2024/07/25/business/growth-tech-earnings.html" } }
+    ]
+  },
+  {
+    "difficulty": "easy",
+    "section": "lifestyle",
+    "word": "food",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Prices Rise at Fastest Pace in a Year", "source": { "name": "Food Prices Rise at Fastest Pace in a Year", "date": "April 9, 2024", "firstParagraph": "Grocery prices rose at the fastest pace in a year, with eggs, bread and produce leading the increase.", "url": "https://www.nytimes.com/2024/04/09/business/food-prices-inflation.html" } },
+      { "type": "lead", "sentence": "The _____ bank said it had seen a 30 percent increase in demand this winter.", "source": { "name": "Demand at Food Banks Surges as Benefits Shrink", "date": "February 12, 2024", "firstParagraph": "The food bank said it had seen a 30 percent increase in demand this winter, as pandemic-era benefits expired.", "url": "https://www.nytimes.com/2024/02/12/us/food-bank-demand.html" } },
+      { "type": "headline", "sentence": "_____ Safety Agency Recalls Popular Snack", "source": { "name": "Food Safety Agency Recalls Popular Snack", "date": "September 8, 2024", "firstParagraph": "The agency recalled a popular snack after tests found possible contamination at a manufacturing plant.", "url": "https://www.nytimes.com/2024/09/08/health/food-recall.html" } },
+      { "type": "lead", "sentence": "_____ waste has become a focus for retailers and restaurants seeking to cut costs.", "source": { "name": "Stores and Restaurants Try to Cut Food Waste", "date": "November 4, 2024", "firstParagraph": "Food waste has become a focus for retailers and restaurants seeking to cut costs and meet sustainability goals.", "url": "https://www.nytimes.com/2024/11/04/business/food-waste.html" } },
+      { "type": "headline", "sentence": "Local _____ Movement Gains Ground in Suburbs", "source": { "name": "Local Food Movement Gains Ground in Suburbs", "date": "June 19, 2024", "firstParagraph": "Farmers’ markets and community-supported agriculture have spread in the suburbs, as the local food movement gains ground.", "url": "https://www.nytimes.com/2024/06/19/style/food-local-movement.html" } }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "section": "arts",
+    "word": "film",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Wins Top Prize at Sundance", "source": { "name": "Film Wins Top Prize at Sundance", "date": "January 28, 2024", "firstParagraph": "A drama about a family in crisis won the top prize at the Sundance Film Festival on Saturday night.", "url": "https://www.nytimes.com/2024/01/28/movies/film-sundance-winner.html" } },
+      { "type": "lead", "sentence": "The _____ was shot in black and white and took three years to complete.", "source": { "name": "Director’s Latest Is a Meditation on Memory", "date": "October 11, 2024", "firstParagraph": "The film was shot in black and white and took three years to complete, the director said in an interview.", "url": "https://www.nytimes.com/2024/10/11/movies/film-director-interview.html" } },
+      { "type": "headline", "sentence": "_____ Industry Struggles to Recover From Strikes", "source": { "name": "Film Industry Struggles to Recover From Strikes", "date": "March 5, 2024", "firstParagraph": "Hollywood is still struggling to recover from last year’s strikes, with fewer releases and delayed production.", "url": "https://www.nytimes.com/2024/03/05/movies/film-industry-strikes.html" } },
+      { "type": "lead", "sentence": "The _____ has grossed more than $500 million at the global box office.", "source": { "name": "Sequel Tops Box Office for Third Weekend", "date": "August 6, 2024", "firstParagraph": "The film has grossed more than $500 million at the global box office, making it one of the year’s biggest hits.", "url": "https://www.nytimes.com/2024/08/06/movies/film-box-office.html" } },
+      { "type": "headline", "sentence": "Documentary _____ Explores Rise of A.I.", "source": { "name": "Documentary Film Explores Rise of A.I.", "date": "November 15, 2024", "firstParagraph": "A new documentary explores the rise of artificial intelligence and its impact on work, creativity and society.", "url": "https://www.nytimes.com/2024/11/15/movies/film-documentary-ai.html" } }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "politics",
+    "word": "jurisdiction",
+    "clues": [
+      { "type": "lead", "sentence": "The court ruled that it lacked _____ to hear the case and dismissed the lawsuit.", "source": { "name": "Court Dismisses Suit on Procedural Grounds", "date": "April 22, 2024", "firstParagraph": "The court ruled that it lacked jurisdiction to hear the case and dismissed the lawsuit, in a decision that could limit similar challenges.", "url": "https://www.nytimes.com/2024/04/22/us/jurisdiction-court-dismissal.html" } },
+      { "type": "headline", "sentence": "Dispute Over _____ Delays Extradition Hearing", "source": { "name": "Dispute Over Jurisdiction Delays Extradition Hearing", "date": "September 17, 2024", "firstParagraph": "Lawyers argued over which court had jurisdiction in the extradition case, delaying a hearing that had been set for Tuesday.", "url": "https://www.nytimes.com/2024/09/17/world/jurisdiction-extradition.html" } },
+      { "type": "lead", "sentence": "Tribal _____ has been a flashpoint in disputes over land, resources and criminal prosecution.", "source": { "name": "Supreme Court to Weigh Tribal Sovereignty Case", "date": "November 6, 2024", "firstParagraph": "Tribal jurisdiction has been a flashpoint in disputes over land, resources and criminal prosecution, with the high court set to hear arguments next month.", "url": "https://www.nytimes.com/2024/11/06/us/jurisdiction-tribal-supreme-court.html" } }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "section": "washington",
+    "word": "legislation",
+    "clues": [
+      { "type": "headline", "sentence": "_____ Would Impose New Rules on Tech Giants", "source": { "name": "Legislation Would Impose New Rules on Tech Giants", "date": "July 8, 2024", "firstParagraph": "A bipartisan bill would impose new rules on tech giants, including requirements for data portability and interoperability.", "url": "https://www.nytimes.com/2024/07/08/technology/legislation-tech-rules.html" } },
+      { "type": "lead", "sentence": "The _____ has been stalled for months amid disagreement over key provisions.", "source": { "name": "Congressional Leaders Struggle to Revive Stalled Bill", "date": "February 13, 2024", "firstParagraph": "The legislation has been stalled for months amid disagreement over key provisions, with no vote scheduled in either chamber.", "url": "https://www.nytimes.com/2024/02/13/us/legislation-stalled-congress.html" } },
+      { "type": "lead", "sentence": "Passage of the _____ would mark the first major update to the law in more than two decades.", "source": { "name": "House Passes Landmark Bill in Late-Night Vote", "date": "October 28, 2024", "firstParagraph": "Passage of the legislation would mark the first major update to the law in more than two decades, supporters said.", "url": "https://www.nytimes.com/2024/10/28/us/legislation-house-passage.html" } }
+    ]
+  }
+]
